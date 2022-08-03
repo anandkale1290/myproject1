@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-30T22:57:24 IST" name="Default suite" finished-at="2022-07-30T22:57:53 IST" duration-ms="28884">
+    <groups>
+    </groups>
+    <test started-at="2022-07-30T22:57:24 IST" name="Default test" finished-at="2022-07-30T22:57:53 IST" duration-ms="28884">
+      <class name="Testdata.logintest">
+        <test-method is-config="true" signature="BM()[pri:0, instance:Testdata.logintest@6580cfdd]" started-at="2022-07-30T22:57:24 IST" name="BM" finished-at="2022-07-30T22:57:29 IST" duration-ms="4501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="Test_001()[pri:0, instance:Testdata.logintest@6580cfdd]" started-at="2022-07-30T22:57:29 IST" name="Test_001" finished-at="2022-07-30T22:57:49 IST" duration-ms="20117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_001 -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:Testdata.logintest@6580cfdd]" started-at="2022-07-30T22:57:49 IST" name="AM" finished-at="2022-07-30T22:57:53 IST" duration-ms="4218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+      </class> <!-- Testdata.logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
